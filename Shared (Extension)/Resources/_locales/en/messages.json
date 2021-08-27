@@ -4,7 +4,7 @@
         "description": "The display name for the extension."
     },
     "extension_description": {
-        "message": "This is InspoTab. You should tell us what your extension does here.",
+        "message": "InspoTab brings 2000s memes to your new tab page.",
         "description": "Description of what the extension does."
     }
 }

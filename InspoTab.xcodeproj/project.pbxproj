@@ -31,8 +31,6 @@
 		CB0CF25426D6299D00CA6F5D /* _locales in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF20B26D6299D00CA6F5D /* _locales */; };
 		CB0CF25726D6299D00CA6F5D /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF20D26D6299D00CA6F5D /* manifest.json */; };
 		CB0CF25826D6299D00CA6F5D /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF20D26D6299D00CA6F5D /* manifest.json */; };
-		CB0CF25926D6299D00CA6F5D /* background.js in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF20E26D6299D00CA6F5D /* background.js */; };
-		CB0CF25A26D6299D00CA6F5D /* background.js in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF20E26D6299D00CA6F5D /* background.js */; };
 		CB0CF2BB26D62C6F00CA6F5D /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF27326D62C6F00CA6F5D /* index.html */; };
 		CB0CF2BC26D62C6F00CA6F5D /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF27326D62C6F00CA6F5D /* index.html */; };
 		CB0CF2BD26D62C6F00CA6F5D /* script.js in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF27426D62C6F00CA6F5D /* script.js */; };
@@ -87,8 +85,6 @@
 		CB0CF2EE26D62C6F00CA6F5D /* success.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF28D26D62C6F00CA6F5D /* success.jpg */; };
 		CB0CF2EF26D62C6F00CA6F5D /* diamond.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF28E26D62C6F00CA6F5D /* diamond.jpg */; };
 		CB0CF2F026D62C6F00CA6F5D /* diamond.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF28E26D62C6F00CA6F5D /* diamond.jpg */; };
-		CB0CF2F126D62C6F00CA6F5D /* meteor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF28F26D62C6F00CA6F5D /* meteor.jpg */; };
-		CB0CF2F226D62C6F00CA6F5D /* meteor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF28F26D62C6F00CA6F5D /* meteor.jpg */; };
 		CB0CF2F326D62C6F00CA6F5D /* idea.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF29026D62C6F00CA6F5D /* idea.jpg */; };
 		CB0CF2F426D62C6F00CA6F5D /* idea.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF29026D62C6F00CA6F5D /* idea.jpg */; };
 		CB0CF2F526D62C6F00CA6F5D /* failure.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF29126D62C6F00CA6F5D /* failure.jpg */; };
@@ -240,7 +236,6 @@
 		CB0CF20926D6299D00CA6F5D /* SafariWebExtensionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariWebExtensionHandler.swift; sourceTree = "<group>"; };
 		CB0CF20B26D6299D00CA6F5D /* _locales */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _locales; sourceTree = "<group>"; };
 		CB0CF20D26D6299D00CA6F5D /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = manifest.json; sourceTree = "<group>"; };
-		CB0CF20E26D6299D00CA6F5D /* background.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = background.js; sourceTree = "<group>"; };
 		CB0CF21726D6299D00CA6F5D /* InspoTab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InspoTab.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB0CF21A26D6299D00CA6F5D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CB0CF21C26D6299D00CA6F5D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -282,7 +277,6 @@
 		CB0CF28C26D62C6F00CA6F5D /* carpe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = carpe.jpg; sourceTree = "<group>"; };
 		CB0CF28D26D62C6F00CA6F5D /* success.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = success.jpg; sourceTree = "<group>"; };
 		CB0CF28E26D62C6F00CA6F5D /* diamond.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = diamond.jpg; sourceTree = "<group>"; };
-		CB0CF28F26D62C6F00CA6F5D /* meteor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meteor.jpg; sourceTree = "<group>"; };
 		CB0CF29026D62C6F00CA6F5D /* idea.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = idea.jpg; sourceTree = "<group>"; };
 		CB0CF29126D62C6F00CA6F5D /* failure.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = failure.jpg; sourceTree = "<group>"; };
 		CB0CF29226D62C6F00CA6F5D /* seal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = seal.jpg; sourceTree = "<group>"; };
@@ -416,7 +410,6 @@
 				CB0CF2BA26D62C6F00CA6F5D /* bg-styles.css */,
 				CB0CF29926D62C6F00CA6F5D /* gifs */,
 				CB0CF20D26D6299D00CA6F5D /* manifest.json */,
-				CB0CF20E26D6299D00CA6F5D /* background.js */,
 				CB0CF34726D62E2E00CA6F5D /* images */,
 				CB0CF27526D62C6F00CA6F5D /* backgrounds */,
 				CB0CF27326D62C6F00CA6F5D /* index.html */,
@@ -503,7 +496,6 @@
 				CB0CF28C26D62C6F00CA6F5D /* carpe.jpg */,
 				CB0CF28D26D62C6F00CA6F5D /* success.jpg */,
 				CB0CF28E26D62C6F00CA6F5D /* diamond.jpg */,
-				CB0CF28F26D62C6F00CA6F5D /* meteor.jpg */,
 				CB0CF29026D62C6F00CA6F5D /* idea.jpg */,
 				CB0CF29126D62C6F00CA6F5D /* failure.jpg */,
 				CB0CF29226D62C6F00CA6F5D /* seal.jpg */,
@@ -558,11 +550,11 @@
 		CB0CF34726D62E2E00CA6F5D /* images */ = {
 			isa = PBXGroup;
 			children = (
-				CB0CF34A26D62E2E00CA6F5D /* icon-256.png */,
 				CB0CF34B26D62E2E00CA6F5D /* icon-48.png */,
 				CB0CF34C26D62E2E00CA6F5D /* icon-64.png */,
 				CB0CF34D26D62E2E00CA6F5D /* icon-96.png */,
 				CB0CF34F26D62E2E00CA6F5D /* icon-128.png */,
+				CB0CF34A26D62E2E00CA6F5D /* icon-256.png */,
 				CB0CF35126D62E2E00CA6F5D /* icon-512.png */,
 			);
 			path = images;
@@ -723,7 +715,6 @@
 				CB0CF31526D62C6F00CA6F5D /* sky.gif in Resources */,
 				CB0CF2DB26D62C6F00CA6F5D /* disappointment.jpg in Resources */,
 				CB0CF2D126D62C6F00CA6F5D /* mistake.jpg in Resources */,
-				CB0CF25926D6299D00CA6F5D /* background.js in Resources */,
 				CB0CF2D926D62C6F00CA6F5D /* mower.jpg in Resources */,
 				CB0CF33726D62C6F00CA6F5D /* vertical.gif in Resources */,
 				CB0CF2F726D62C6F00CA6F5D /* seal.jpg in Resources */,
@@ -748,7 +739,6 @@
 				CB0CF2D526D62C6F00CA6F5D /* ostrich.jpg in Resources */,
 				CB0CF2CF26D62C6F00CA6F5D /* peak.jpg in Resources */,
 				CB0CF32F26D62C6F00CA6F5D /* fire.gif in Resources */,
-				CB0CF2F126D62C6F00CA6F5D /* meteor.jpg in Resources */,
 				CB0CF32726D62C6F00CA6F5D /* liftoff.gif in Resources */,
 				CB0CF2BB26D62C6F00CA6F5D /* index.html in Resources */,
 				CB0CF30926D62C6F00CA6F5D /* penguin.gif in Resources */,
@@ -809,7 +799,6 @@
 				CB0CF31626D62C6F00CA6F5D /* sky.gif in Resources */,
 				CB0CF2DC26D62C6F00CA6F5D /* disappointment.jpg in Resources */,
 				CB0CF2D226D62C6F00CA6F5D /* mistake.jpg in Resources */,
-				CB0CF25A26D6299D00CA6F5D /* background.js in Resources */,
 				CB0CF2DA26D62C6F00CA6F5D /* mower.jpg in Resources */,
 				CB0CF33826D62C6F00CA6F5D /* vertical.gif in Resources */,
 				CB0CF2F826D62C6F00CA6F5D /* seal.jpg in Resources */,
@@ -834,7 +823,6 @@
 				CB0CF2D626D62C6F00CA6F5D /* ostrich.jpg in Resources */,
 				CB0CF2D026D62C6F00CA6F5D /* peak.jpg in Resources */,
 				CB0CF33026D62C6F00CA6F5D /* fire.gif in Resources */,
-				CB0CF2F226D62C6F00CA6F5D /* meteor.jpg in Resources */,
 				CB0CF32826D62C6F00CA6F5D /* liftoff.gif in Resources */,
 				CB0CF2BC26D62C6F00CA6F5D /* index.html in Resources */,
 				CB0CF30A26D62C6F00CA6F5D /* penguin.gif in Resources */,
