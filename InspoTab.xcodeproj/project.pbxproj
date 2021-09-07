@@ -169,18 +169,8 @@
 		CB0CF34426D62C6F00CA6F5D /* lightspeed.gif in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF2B926D62C6F00CA6F5D /* lightspeed.gif */; };
 		CB0CF34526D62C6F00CA6F5D /* bg-styles.css in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF2BA26D62C6F00CA6F5D /* bg-styles.css */; };
 		CB0CF34626D62C6F00CA6F5D /* bg-styles.css in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF2BA26D62C6F00CA6F5D /* bg-styles.css */; };
-		CB0CF35626D62E2E00CA6F5D /* icon-256.png in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF34A26D62E2E00CA6F5D /* icon-256.png */; };
-		CB0CF35726D62E2E00CA6F5D /* icon-256.png in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF34A26D62E2E00CA6F5D /* icon-256.png */; };
-		CB0CF35826D62E2E00CA6F5D /* icon-48.png in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF34B26D62E2E00CA6F5D /* icon-48.png */; };
-		CB0CF35926D62E2E00CA6F5D /* icon-48.png in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF34B26D62E2E00CA6F5D /* icon-48.png */; };
-		CB0CF35A26D62E2E00CA6F5D /* icon-64.png in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF34C26D62E2E00CA6F5D /* icon-64.png */; };
-		CB0CF35B26D62E2E00CA6F5D /* icon-64.png in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF34C26D62E2E00CA6F5D /* icon-64.png */; };
-		CB0CF35C26D62E2E00CA6F5D /* icon-96.png in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF34D26D62E2E00CA6F5D /* icon-96.png */; };
-		CB0CF35D26D62E2E00CA6F5D /* icon-96.png in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF34D26D62E2E00CA6F5D /* icon-96.png */; };
-		CB0CF36026D62E2E00CA6F5D /* icon-128.png in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF34F26D62E2E00CA6F5D /* icon-128.png */; };
-		CB0CF36126D62E2E00CA6F5D /* icon-128.png in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF34F26D62E2E00CA6F5D /* icon-128.png */; };
-		CB0CF36426D62E2E00CA6F5D /* icon-512.png in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF35126D62E2E00CA6F5D /* icon-512.png */; };
-		CB0CF36526D62E2E00CA6F5D /* icon-512.png in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF35126D62E2E00CA6F5D /* icon-512.png */; };
+		CB94C67F26E7E7D50097498E /* images in Resources */ = {isa = PBXBuildFile; fileRef = CB94C67E26E7E7D50097498E /* images */; };
+		CB94C68026E7E7D50097498E /* images in Resources */ = {isa = PBXBuildFile; fileRef = CB94C67E26E7E7D50097498E /* images */; };
 		CB9740EB26D829A500666F8A /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = CB9740EA26D829A500666F8A /* Icon.png */; };
 		CB9740EC26D829A500666F8A /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = CB9740EA26D829A500666F8A /* Icon.png */; };
 /* End PBXBuildFile section */
@@ -319,12 +309,7 @@
 		CB0CF2B826D62C6F00CA6F5D /* mug.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = mug.gif; sourceTree = "<group>"; };
 		CB0CF2B926D62C6F00CA6F5D /* lightspeed.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = lightspeed.gif; sourceTree = "<group>"; };
 		CB0CF2BA26D62C6F00CA6F5D /* bg-styles.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = "bg-styles.css"; sourceTree = "<group>"; };
-		CB0CF34A26D62E2E00CA6F5D /* icon-256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-256.png"; sourceTree = "<group>"; };
-		CB0CF34B26D62E2E00CA6F5D /* icon-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-48.png"; sourceTree = "<group>"; };
-		CB0CF34C26D62E2E00CA6F5D /* icon-64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-64.png"; sourceTree = "<group>"; };
-		CB0CF34D26D62E2E00CA6F5D /* icon-96.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-96.png"; sourceTree = "<group>"; };
-		CB0CF34F26D62E2E00CA6F5D /* icon-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-128.png"; sourceTree = "<group>"; };
-		CB0CF35126D62E2E00CA6F5D /* icon-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-512.png"; sourceTree = "<group>"; };
+		CB94C67E26E7E7D50097498E /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
 		CB9740EA26D829A500666F8A /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -407,10 +392,10 @@
 			isa = PBXGroup;
 			children = (
 				CB0CF20B26D6299D00CA6F5D /* _locales */,
+				CB94C67E26E7E7D50097498E /* images */,
 				CB0CF2BA26D62C6F00CA6F5D /* bg-styles.css */,
 				CB0CF29926D62C6F00CA6F5D /* gifs */,
 				CB0CF20D26D6299D00CA6F5D /* manifest.json */,
-				CB0CF34726D62E2E00CA6F5D /* images */,
 				CB0CF27526D62C6F00CA6F5D /* backgrounds */,
 				CB0CF27326D62C6F00CA6F5D /* index.html */,
 				CB0CF27426D62C6F00CA6F5D /* script.js */,
@@ -545,19 +530,6 @@
 				CB0CF2B926D62C6F00CA6F5D /* lightspeed.gif */,
 			);
 			path = gifs;
-			sourceTree = "<group>";
-		};
-		CB0CF34726D62E2E00CA6F5D /* images */ = {
-			isa = PBXGroup;
-			children = (
-				CB0CF34B26D62E2E00CA6F5D /* icon-48.png */,
-				CB0CF34C26D62E2E00CA6F5D /* icon-64.png */,
-				CB0CF34D26D62E2E00CA6F5D /* icon-96.png */,
-				CB0CF34F26D62E2E00CA6F5D /* icon-128.png */,
-				CB0CF34A26D62E2E00CA6F5D /* icon-256.png */,
-				CB0CF35126D62E2E00CA6F5D /* icon-512.png */,
-			);
-			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -721,7 +693,6 @@
 				CB0CF2C926D62C6F00CA6F5D /* fly.jpg in Resources */,
 				CB0CF34126D62C6F00CA6F5D /* mug.gif in Resources */,
 				CB0CF2DD26D62C6F00CA6F5D /* distraction.jpg in Resources */,
-				CB0CF36026D62E2E00CA6F5D /* icon-128.png in Resources */,
 				CB0CF2FD26D62C6F00CA6F5D /* wallst.jpg in Resources */,
 				CB0CF32D26D62C6F00CA6F5D /* octopusAbstract.gif in Resources */,
 				CB0CF33D26D62C6F00CA6F5D /* butterfly.gif in Resources */,
@@ -747,9 +718,9 @@
 				CB0CF31126D62C6F00CA6F5D /* gamecube.gif in Resources */,
 				CB0CF33526D62C6F00CA6F5D /* trek.gif in Resources */,
 				CB0CF2FF26D62C6F00CA6F5D /* manifestation.jpg in Resources */,
-				CB0CF35826D62E2E00CA6F5D /* icon-48.png in Resources */,
 				CB0CF30526D62C6F00CA6F5D /* abstractBlue.gif in Resources */,
 				CB0CF33F26D62C6F00CA6F5D /* snow.gif in Resources */,
+				CB94C67F26E7E7D50097498E /* images in Resources */,
 				CB0CF33126D62C6F00CA6F5D /* yellow.gif in Resources */,
 				CB0CF2E126D62C6F00CA6F5D /* anarchy.jpg in Resources */,
 				CB0CF30126D62C6F00CA6F5D /* slavery.jpg in Resources */,
@@ -760,7 +731,6 @@
 				CB0CF2E526D62C6F00CA6F5D /* penguin.jpg in Resources */,
 				CB0CF32526D62C6F00CA6F5D /* star.gif in Resources */,
 				CB0CF31D26D62C6F00CA6F5D /* binary.gif in Resources */,
-				CB0CF36426D62E2E00CA6F5D /* icon-512.png in Resources */,
 				CB0CF32126D62C6F00CA6F5D /* sky2.gif in Resources */,
 				CB0CF33326D62C6F00CA6F5D /* grayWave.gif in Resources */,
 				CB0CF30D26D62C6F00CA6F5D /* test.gif in Resources */,
@@ -773,14 +743,11 @@
 				CB0CF2F526D62C6F00CA6F5D /* failure.jpg in Resources */,
 				CB0CF2EB26D62C6F00CA6F5D /* carpe.jpg in Resources */,
 				CB0CF34526D62C6F00CA6F5D /* bg-styles.css in Resources */,
-				CB0CF35A26D62E2E00CA6F5D /* icon-64.png in Resources */,
 				CB0CF2CB26D62C6F00CA6F5D /* procrastinate.jpg in Resources */,
 				CB0CF2BD26D62C6F00CA6F5D /* script.js in Resources */,
 				CB0CF25726D6299D00CA6F5D /* manifest.json in Resources */,
 				CB0CF25326D6299D00CA6F5D /* _locales in Resources */,
 				CB0CF2E726D62C6F00CA6F5D /* invalid.jpg in Resources */,
-				CB0CF35626D62E2E00CA6F5D /* icon-256.png in Resources */,
-				CB0CF35C26D62E2E00CA6F5D /* icon-96.png in Resources */,
 				CB0CF30726D62C6F00CA6F5D /* grayscaleAbstract.gif in Resources */,
 				CB0CF32326D62C6F00CA6F5D /* blackDot.gif in Resources */,
 				CB0CF2ED26D62C6F00CA6F5D /* success.jpg in Resources */,
@@ -805,7 +772,6 @@
 				CB0CF2CA26D62C6F00CA6F5D /* fly.jpg in Resources */,
 				CB0CF34226D62C6F00CA6F5D /* mug.gif in Resources */,
 				CB0CF2DE26D62C6F00CA6F5D /* distraction.jpg in Resources */,
-				CB0CF36126D62E2E00CA6F5D /* icon-128.png in Resources */,
 				CB0CF2FE26D62C6F00CA6F5D /* wallst.jpg in Resources */,
 				CB0CF32E26D62C6F00CA6F5D /* octopusAbstract.gif in Resources */,
 				CB0CF33E26D62C6F00CA6F5D /* butterfly.gif in Resources */,
@@ -831,9 +797,9 @@
 				CB0CF31226D62C6F00CA6F5D /* gamecube.gif in Resources */,
 				CB0CF33626D62C6F00CA6F5D /* trek.gif in Resources */,
 				CB0CF30026D62C6F00CA6F5D /* manifestation.jpg in Resources */,
-				CB0CF35926D62E2E00CA6F5D /* icon-48.png in Resources */,
 				CB0CF30626D62C6F00CA6F5D /* abstractBlue.gif in Resources */,
 				CB0CF34026D62C6F00CA6F5D /* snow.gif in Resources */,
+				CB94C68026E7E7D50097498E /* images in Resources */,
 				CB0CF33226D62C6F00CA6F5D /* yellow.gif in Resources */,
 				CB0CF2E226D62C6F00CA6F5D /* anarchy.jpg in Resources */,
 				CB0CF30226D62C6F00CA6F5D /* slavery.jpg in Resources */,
@@ -844,7 +810,6 @@
 				CB0CF2E626D62C6F00CA6F5D /* penguin.jpg in Resources */,
 				CB0CF32626D62C6F00CA6F5D /* star.gif in Resources */,
 				CB0CF31E26D62C6F00CA6F5D /* binary.gif in Resources */,
-				CB0CF36526D62E2E00CA6F5D /* icon-512.png in Resources */,
 				CB0CF32226D62C6F00CA6F5D /* sky2.gif in Resources */,
 				CB0CF33426D62C6F00CA6F5D /* grayWave.gif in Resources */,
 				CB0CF30E26D62C6F00CA6F5D /* test.gif in Resources */,
@@ -857,14 +822,11 @@
 				CB0CF2F626D62C6F00CA6F5D /* failure.jpg in Resources */,
 				CB0CF2EC26D62C6F00CA6F5D /* carpe.jpg in Resources */,
 				CB0CF34626D62C6F00CA6F5D /* bg-styles.css in Resources */,
-				CB0CF35B26D62E2E00CA6F5D /* icon-64.png in Resources */,
 				CB0CF2CC26D62C6F00CA6F5D /* procrastinate.jpg in Resources */,
 				CB0CF2BE26D62C6F00CA6F5D /* script.js in Resources */,
 				CB0CF25826D6299D00CA6F5D /* manifest.json in Resources */,
 				CB0CF25426D6299D00CA6F5D /* _locales in Resources */,
 				CB0CF2E826D62C6F00CA6F5D /* invalid.jpg in Resources */,
-				CB0CF35726D62E2E00CA6F5D /* icon-256.png in Resources */,
-				CB0CF35D26D62E2E00CA6F5D /* icon-96.png in Resources */,
 				CB0CF30826D62C6F00CA6F5D /* grayscaleAbstract.gif in Resources */,
 				CB0CF32426D62C6F00CA6F5D /* blackDot.gif in Resources */,
 				CB0CF2EE26D62C6F00CA6F5D /* success.jpg in Resources */,

@@ -77,7 +77,7 @@ theme: "rgb(2,2,2)"
 
 let wallpaper9 = {
 term: "Imagination",
-caption: "Picture it: Somewhere under the waves a magestic seal is being torn in half by a shark.",
+caption: "Picture it: Somewhere under the waves a majestic seal is being torn in half by a shark.",
 gifUrl: "rainbowDrop.gif",
 image: "seal.jpg",
 blur: 2,
@@ -306,13 +306,13 @@ theme: "black"
 
 var wallpapers = [wallpaper1, wallpaper2, wallpaper3, wallpaper4, wallpaper5, wallpaper6, wallpaper7, wallpaper8, wallpaper9, wallpaper10, wallpaper11, wallpaper12, wallpaper13, wallpaper14, wallpaper15, wallpaper16, wallpaper17, wallpaper18, wallpaper19, wallpaper20, wallpaper21, wallpaper22, wallpaper23, wallpaper24, wallpaper25, wallpaper26, wallpaper27, wallpaper28, wallpaper29, wallpaper30, wallpaper31, wallpaper32, wallpaper33]
 
-var i = parseInt(localStorage.getItem("index"))
-if (i === null) {
+var i = parseInt(localStorage.getItem("index")) % wallpapers.length
+
+if (localStorage.getItem("index") === null || localStorage.getItem("index") === "NaN") {
     localStorage.setItem("index", 0)
     i = 0
 }
-
-console.log(i)
+localStorage.setItem("index", i+1)
 
 let randomWallpaper = wallpapers[i]
 
@@ -355,9 +355,6 @@ window.addEventListener('load', function () {
         let gifString = "background-image: url('" + browser.extension.getURL(randomWallpaper.gifUrl) + "');"
         document.querySelector("#gif").setAttribute("style", gifString)
     }
-    
-    // update index
-    localStorage.setItem("index", i+1 % wallpapers.length)
 })
 
 function setThemeColor(color) {
