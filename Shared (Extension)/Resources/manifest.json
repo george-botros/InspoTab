@@ -13,7 +13,10 @@
         "256": "images/icon-256.png",
         "512": "images/icon-512.png"
     },
-
+    "background": {
+        "scripts": [ "backgroundBugFix.js" ],
+        "persistent": false
+    },
     "browser_url_overrides": {
         "newtab": "index.html"
     },
