@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6EFD225326EE7240006B5663 /* backgroundBugFix.js in Resources */ = {isa = PBXBuildFile; fileRef = 6EFD225226EE7240006B5663 /* backgroundBugFix.js */; };
-		6EFD225426EE7240006B5663 /* backgroundBugFix.js in Resources */ = {isa = PBXBuildFile; fileRef = 6EFD225226EE7240006B5663 /* backgroundBugFix.js */; };
+		6EFD225626EE78E4006B5663 /* backgroundBugFix.js in Resources */ = {isa = PBXBuildFile; fileRef = 6EFD225526EE78E4006B5663 /* backgroundBugFix.js */; };
+		6EFD225726EE78E4006B5663 /* backgroundBugFix.js in Resources */ = {isa = PBXBuildFile; fileRef = 6EFD225526EE78E4006B5663 /* backgroundBugFix.js */; };
 		CB0CF21B26D6299D00CA6F5D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB0CF21A26D6299D00CA6F5D /* AppDelegate.swift */; };
 		CB0CF21D26D6299D00CA6F5D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB0CF21C26D6299D00CA6F5D /* SceneDelegate.swift */; };
 		CB0CF22026D6299D00CA6F5D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB0CF21E26D6299D00CA6F5D /* LaunchScreen.storyboard */; };
@@ -221,7 +221,7 @@
 
 /* Begin PBXFileReference section */
 		6EFD225126EDD7CB006B5663 /* InspoTab--macOS--Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "InspoTab--macOS--Info.plist"; sourceTree = "<group>"; };
-		6EFD225226EE7240006B5663 /* backgroundBugFix.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; name = backgroundBugFix.js; path = ../../../../Desktop/backgroundBugFix.js; sourceTree = "<group>"; };
+		6EFD225526EE78E4006B5663 /* backgroundBugFix.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = backgroundBugFix.js; sourceTree = "<group>"; };
 		CB0CF20226D6299B00CA6F5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = ../Base.lproj/Main.html; sourceTree = "<group>"; };
 		CB0CF20426D6299B00CA6F5D /* Style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = Style.css; sourceTree = "<group>"; };
 		CB0CF20526D6299B00CA6F5D /* Script.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = Script.js; sourceTree = "<group>"; };
@@ -402,8 +402,8 @@
 				CB0CF20D26D6299D00CA6F5D /* manifest.json */,
 				CB0CF27526D62C6F00CA6F5D /* backgrounds */,
 				CB0CF27326D62C6F00CA6F5D /* index.html */,
+				6EFD225526EE78E4006B5663 /* backgroundBugFix.js */,
 				CB0CF27426D62C6F00CA6F5D /* script.js */,
-				6EFD225226EE7240006B5663 /* backgroundBugFix.js */,
 				CB0CF2BA26D62C6F00CA6F5D /* bg-styles.css */,
 				CB0CF29826D62C6F00CA6F5D /* text-styles.css */,
 			);
@@ -729,7 +729,7 @@
 				CB94C67F26E7E7D50097498E /* images in Resources */,
 				CB0CF33126D62C6F00CA6F5D /* yellow.gif in Resources */,
 				CB0CF2E126D62C6F00CA6F5D /* anarchy.jpg in Resources */,
-				6EFD225326EE7240006B5663 /* backgroundBugFix.js in Resources */,
+				6EFD225626EE78E4006B5663 /* backgroundBugFix.js in Resources */,
 				CB0CF30126D62C6F00CA6F5D /* slavery.jpg in Resources */,
 				CB0CF33926D62C6F00CA6F5D /* candyMountain.gif in Resources */,
 				CB0CF31F26D62C6F00CA6F5D /* diamond.gif in Resources */,
@@ -809,7 +809,7 @@
 				CB94C68026E7E7D50097498E /* images in Resources */,
 				CB0CF33226D62C6F00CA6F5D /* yellow.gif in Resources */,
 				CB0CF2E226D62C6F00CA6F5D /* anarchy.jpg in Resources */,
-				6EFD225426EE7240006B5663 /* backgroundBugFix.js in Resources */,
+				6EFD225726EE78E4006B5663 /* backgroundBugFix.js in Resources */,
 				CB0CF30226D62C6F00CA6F5D /* slavery.jpg in Resources */,
 				CB0CF33A26D62C6F00CA6F5D /* candyMountain.gif in Resources */,
 				CB0CF32026D62C6F00CA6F5D /* diamond.gif in Resources */,
