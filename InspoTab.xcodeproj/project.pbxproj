@@ -393,12 +393,12 @@
 			children = (
 				CB0CF20B26D6299D00CA6F5D /* _locales */,
 				CB94C67E26E7E7D50097498E /* images */,
-				CB0CF2BA26D62C6F00CA6F5D /* bg-styles.css */,
 				CB0CF29926D62C6F00CA6F5D /* gifs */,
 				CB0CF20D26D6299D00CA6F5D /* manifest.json */,
 				CB0CF27526D62C6F00CA6F5D /* backgrounds */,
 				CB0CF27326D62C6F00CA6F5D /* index.html */,
 				CB0CF27426D62C6F00CA6F5D /* script.js */,
+				CB0CF2BA26D62C6F00CA6F5D /* bg-styles.css */,
 				CB0CF29826D62C6F00CA6F5D /* text-styles.css */,
 			);
 			path = Resources;
