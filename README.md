@@ -11,7 +11,7 @@ InspoTab displays demotivational quotes on a user's Safari new tab page on Mac a
 
 <br>
 
-![InspoTab on Mac](Resources/Untitled 2.001 - fixed dimensions.jpg)
-![InspoTab on iPad](Resources/InspoTab - iPad 3gen Screen.png)
-![InspoTab on iPhone](Resources/InspoTab - iOS Screenshot.png)
+![InspoTab on Mac](Resources/InspoTabDemoMac.jpg)
+![InspoTab on iPad](Resources/InspoTabDemoiPad.png)
+![InspoTab on iPhone](Resources/InspoTabDemoiPhone.png)
 
