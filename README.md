@@ -6,7 +6,7 @@
     <img align="right" style="position: absolute" src="Resources/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg">
   </a>
 </h1>
-InspoTab displays demotivational quotes on a user's Safari new tab page on Mac and iOS. 
+InspoTab displays demotivational quotes on a user's Safari "new tab" page on Mac and iOS. 
 <br>
 
 <br>
