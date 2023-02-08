@@ -10,7 +10,9 @@ InspoTab displays demotivational quotes on a user's Safari new tab page on Mac a
 <br>
 
 <br>
+<p align="center">
+  <img src="Resources/InspoTabDemoMac.jpg" width="70%" height="70%"> 
+  <img src="Resources/InspoTabDemoiPad.png" width="48.6%" height="48.6%">
+  <img src="Resources/InspoTabDemoiPhone.png" width="30%" height="30%">
+</p>
 
-<img src="Resources/InspoTabDemoMac.jpg" width="50%" height="50%"> 
-<img src="Resources/InspoTabDemoiPad.png" width="30%" height="30%">
-<img src="Resources/InspoTabDemoiPhone.png" width="30%" height="30%">
