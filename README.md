@@ -1,6 +1,6 @@
 <h1 align="center">
   <span align="center">
-    InspoTab <img src="Resources/icon.png" alt="logo" width="32" height="32">
+    InspoTab <img src="Resources/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" alt="logo" width="32" height="32">
   </span>
   <a href="https://apps.apple.com/us/app/inspotab/id1585533975">
     <img align="right" style="position: absolute" src="Resources/MacAppStoreBadge.svg">
